@@ -1,8 +1,18 @@
 # micropython-examples
 ESP8266 MicroPython examples
 
+
+Videos
+======
+
+Wemos D1 - LED
+--------------
+
+- Blink: https://youtu.be/8zlQ4ZebwB4
+- Web server: https://youtu.be/xb09v5zN0LM
+
 Links
------
+=====
 
 - MicroPython doc: http://docs.micropython.org/en/latest/esp8266/
 - Picocom serial terminal: https://github.com/npat-efault/picocom
