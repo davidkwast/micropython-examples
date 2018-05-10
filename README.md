@@ -9,7 +9,7 @@ Wemos D1 - LED
 --------------
 
 - Blink: https://youtu.be/8zlQ4ZebwB4
-- Web server: https://youtu.be/GcMBWU7TnWo
+- Web server: https://youtu.be/GcMBWU7TnWo | https://youtu.be/jCw2cGdjX3Y
 
 Links
 =====
